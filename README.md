@@ -3,7 +3,8 @@
 ## Overview
 The purpose of this analysis is to understand the reviews of Amazon customers who were paid (part of Vine program) and unpaid to write reviews.
 
-## Results: Using bulleted lists and images of DataFrames as support, address the following questions:
+## Results
+: Using bulleted lists and images of DataFrames as support, address the following questions:
 
 How many Vine reviews and non-Vine reviews were there?
 
